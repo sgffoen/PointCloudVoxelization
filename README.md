@@ -1,2 +1,2 @@
 # PointCloudVoxelization
-Convert point cloud input into a 3d raster (voxels)
+Convert point cloud input into 3d raster (voxels) using Julia.
